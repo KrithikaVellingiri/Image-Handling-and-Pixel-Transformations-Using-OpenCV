@@ -273,19 +273,33 @@ plt.axis("off")
 
 ## Output:
 ![output image](output_7_0.png)
+
 ![output image](output_14_0.png)
+
 ![output image](output_19_0.png)
+
 ![output image](output_22_0.png)
+
 ![output image](output_27_0.png)
+
 ![output image](output_31_1.png)
+
 ![output image](output_33_1.png)
+
 ![output image](output_35_1.png)
+
 ![output image](output_37_1.png)
+
 ![output image](output_39_1.png)
+
 ![output image](output_41_0.png)
+
 ![output image](output_48_0.png)
+
 ![output image](output_54_0.png)
+
 ![output image](output_59_1.png)
+
 ![output image](output_62_1.png)
 
 ## Result:
