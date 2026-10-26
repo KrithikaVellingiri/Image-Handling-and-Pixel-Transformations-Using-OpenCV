@@ -272,6 +272,7 @@ plt.axis("off")
 ```
 
 ## Output:
+![output image](output_7_0.png)
 
 
 ## Result:
